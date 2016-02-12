@@ -1,0 +1,29 @@
+LIBER PRIMUS.
+
+DE COMPUTATIONIBUS QUANTITATUM OMNIBUS
+LOGISTICAE SPECIEBUS COMMUNIUM.
+
+CAPUT Ι.
+
+DE COMPUTATIONIBUS PRIMIS.
+
+LOGISTICA est ars bene computandi.
+
+COMPUTATIO est actio seu operatio quae ex pluribus quantitatibus, et
+quantitatum proprietatibus datis, quaesita invenit.
+
+Dantur autem au't vocali nominatione, aut graphica notatione.
+
+Unde in omni Logistica primo procedunt nominatio et notati03 mox
+cum eis succedit computatio.
+
+Computatio autem est simplex vel composita.
+Simplex est computatio, quae ex duabus datis tertiam unica aut uni-
+moda operatione invenit.
+Simplex computatio vel est prima vel orta.
+Prima est computatiO, quae quantitatem cum quantitate semel tantum
+computat.
+Atque haec, ex totiuS, partis, et residuae, duabus quibuscunque
+datis, tertiam quamcunque invenit: Quod mox patebit exemplis
+subsequentibus,
+

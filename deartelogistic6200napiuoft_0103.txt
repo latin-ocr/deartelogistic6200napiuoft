@@ -1,0 +1,28 @@
+INTRODUCTION. lxxvii
+
+adopted by Sir Isaac Newton, in similar terms‚ to illustrate
+his own discovery of Fluxions. The accidental circumstance,
+or first idea, which may have led any great inventor into
+the path of his distinction, can rarely be discovered. I have
+endeavoured to illustrate Napier’s progress to the Logae
+rithms through his mathematical studies now published.
+Newton himself, in his treatise of the Quadrature of Curves,
+announces the method that led him to his great discovery of
+FluxionS. ‘⁶ I consider,” he says, ‘⁶ mathematical quantities
+in this place not as consisting of very small parts, but as
+described ΒΥ a continued motion. Lines are described, and
+therefore gener-med, not ΒΥ the opposition of parm, but by the
+continued motion of points ; superficies by the motion of lines ;
+solids ΒΥ the motion of superficies3 angles ΒΥ the rotation of
+the sides; portions of time ΒΥ a continual , flux3 and so in
+other quantities. These geneses really take place in the nature
+of things, and are daily seen in the motion of bodies. And
+after this manner the ancients‚ by drawing moveable right
+lines along immoveable right lines, taught the genesis of rect-
+angleS. Therefore‚ considering that quantities which increase
+in equal times, and by increasing are generated‚ become greater
+or less according to the greater or less velocity with which they
+increase and are generated, I sought a method of determining
+
+quantities from the velocities of the motion or increments
+

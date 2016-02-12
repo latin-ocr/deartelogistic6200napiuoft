@@ -1,0 +1,28 @@
+INTRODUCTION. lxi
+
+, ciple of its operation, and had also turned his mind to new
+inventions in notation, may be gathered from these manu-
+scriptS. In the first chapter of the second book of his Arith-
+metic, in which he discusses the nomination and notation of
+numerical quantitieS, he says that ‘⁶ every idiom supplies its own
+vocal nomination3 but that the written names of integers are
+the nine significant figureS,—l, 2, 3, 4, 5, 6, 7, 8, 93 and
+that these signify various numerical values, according to their
+change of place. This progreSS,” he adds, ‘⁶ is from right to
+left3 and the circle Ο, which has no signification wherever it be
+placed, is merely used to indicate the progress of the significant
+figure, by representing the vacancy which that has occasioned
+in its progress. When the significant figure is occupying its
+first place, it 15 named,” says Napier, ‘⁶ according to its own
+individual value3 when it has progressed to the second place, it
+is named by its tenfold value 3 in the third place, a hundredfold3
+and so on by an infinite progreSS, each step attaching to the
+figure a value equal to the multiplicatiori of the last step by ten.''
+Such is Napier’s explanation of that all-powerful though simple
+expedient3 and none more accurate and lucid has been afforded
+during the two centuries and a half which have elapsed since
+he composed his digest of Numbers. The extreme ingenuity
+with which he adapted to this principle—of numerica] values in
+
+geometrical progression, indicated by the progressive motion
+

@@ -1,0 +1,38 @@
+DE ARTE LOGISTICA. 67
+
+CAPUT XI.
+
+DE FRACTIONIBUS, SEU NUMERIS FRACTIS.
+
+FRAc'rlo, seu numerus fractus, est quem minima et individua pars,
+unica scilicet unitatis numerata, metitur.
+
+Ut apud astronomos gradus pro unitate habetur, et 7 scrupula
+prima sunt ejus fractio ; nam hoc loco unicum scrupulum
+primum est ejus minima et individua pars, quae eam metitur, et
+ab ea numeratur per 7. Sic 5 solidi sunt librae fractio, quia 1
+solidus hic est minima et individua unius librae pars, quae frac-
+tionem metitur, et ab ea numeratur per 5. Sic 17 trigesimae
+unitatis partes sunt fractio; quia unica trigesima est hoc loco
+minima et individua unitatis pars, quae 17 trigesimas metitur, et
+ab eis numeratur septemdecies.
+
+Fractionum, aliae vulgares, aliae physicae dicuntur.
+
+Vulgares sunt, quae varias et liberas habent denominationes.
+ι Ut unum dimidium, duae tertiae, quatuor undecimae, quae
+ortum habent in partitione, cap. 4 Lib. ΙΙ.
+
+In Arithmetica fractionum vulgarium spectantur nominatio et operatio.
+
+Nominatio, quae voce fit, dicitur pronuntiati03 quae autem scriptis,
+notatio.
+
+Vulgarium fractionum nominatio duobus terminis exprimitur, nume-
+ratore μ et denominatore.
+
+Denominator est, qui nominat in quot partes aequales unitas sit
+
+distribuenda.
+Numerator vero est, qui numerat quot ex his partibus sint sumendae.
+

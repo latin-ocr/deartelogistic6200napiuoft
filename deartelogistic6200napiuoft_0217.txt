@@ -1,0 +1,33 @@
+DE ARTE LOGISTICA. 95
+
+Corollarium.
+
+3. Hinc patet, ex additione uninomiorum incommensurabilium oriri
+binomia et plurinomia abundantia,--sic dicta quod duobus aut pluribus
+uninomiis, copula -Ι- conjunctiS‚ constent 3 de quibus suo loco.
+
+CAPUT ΙΙΙ.
+
+DE UNINOMIORUM SUBSTRACTIONE.
+
+1. S1 uninomia proposita commensurabilia fuerint, divide numerum
+uninomii, ex quo substractio fit, per numerum uninomii substrahendi;
+quotientis extrahe radicem qualem radicale denotat; ab hac substraho
+unitatem3 reliquum in se toties duc quoties indicat radicale3 prof
+ductum etiam in numerum uninomii substrahendi duc, atque huic prae-
+pone signum radicale pristinum, et fiet inde residuum seu reliquum
+substractionis priorum uninomiorum.
+
+Exempla.
+
+Sit substrahenda «ί 812 ex d-{Q7 ; divide 27 per 12 arith-
+metice, fient ἓ, cujus «βῖ est ᾖ, hinc aufer 1, fiet ἐς quod in
+se quadrate duc, fiet ἐς et hanc in 12 duc, fient 33 quibus
+praepone radicale suum, fietque «193, pro reliquo substractionis
+«l—QIQ ex d—{QT Simili modo, «113244 subducta ex M‘BSI
+relinquit «l‘ess. Item, d-Q} ex «JQ6 subducta relinquit “323-
+
+2. Si uninomia proposita incommensurabilia fuerint, ambo simul
+scribe postposito uninomio substrahendo, et interposito hoc signo —,
+quod copula minutionis nuncupatur.
+

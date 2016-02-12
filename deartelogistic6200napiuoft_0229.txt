@@ -1,0 +1,34 @@
+DE ARTE LOGISTICA. 107
+
+CAPUT XII.
+
+DE EXTRACTIONE RADICUM EX PLURINOMIIS.
+
+1. PLURINOMIORUM quaedam radices perspicuae sunt, quaedam obscurae.
+Perspicuas dicimus, quae non sunt magis plurinomia quam eaquorum
+sunt radices·
+
+Q. Obscuras autem radices appellamus, quae plurimis uninomiis et
+radicibus plurinomiorum confuse plerumque scatent.
+
+3. Si binomii infimi oblati fuerit extrahenda radix quadrata, ex
+differentia quadratorum utriusque uninomii radicem quadratam ex-
+trahe, quam ad majus uninomium adde et ab eodem substrahe, si scilicet
+commensurabilia sunt (alioquin enim erit radix quaesita obscura), et ab
+horum dimidiis educ radices quadratas (per cap. 4), has binas radices
+connecte copula qua prius binomium, et erit hoc binomium radix quad-
+rata perspicua prioris binomii.
+
+Exemplum.
+
+Sit extrahenda radix quadrata hujus binomii defectivi 3—
+κΙ-ἳό ; quadrata uninomiorum sunt 9 et 5, quorum differentia
+est 4«, radix quadrata hujus differentiae est 2, commensurabiles
+ad 3 ; ea igitur 3 et Q adde, fient 5 3 et etiam substrahe Q ex 3,
+restat 1 3 ex dimidiis 5 et 1 educ radices quadratas, fient ass—Q}
+et w& quas connecte copula pristina, fientque «Ι-ἳῇ-κί-ἳὲ
+radix quadrata hujus binomii 3—«lsg5. Item, sit extrahenda
+radix quadrata ex «lgm—6 3 radix quadrata differentiae quad-
+ratorum est «l Q 12, quae addita et substracta ad et a d348, facit
+d Q 108, et al 912, quarum radices dimidiorum copulatae faciunt
+

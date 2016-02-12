@@ -1,0 +1,41 @@
+52
+
+DE ARTE LOGISTICA.
+
+supplementum quintuplicationis‚ aut quintupartientis radiciS,
+quinque constare partibus; quarum prima est quadruplicati
+praecedentis quintuplum ductum per succedens3 secunda est,
+triplicati praecedentis decuplum ductum per duplicatum succe-
+dentis; tertia est, duplicati praecedentis decuplum ductum per
+triplicatum succedentis; quarta est, praecedentis quintuplum
+ductum in quadruplicatum succedentis ; quinta. est, ipsum quin-
+tuplicatum succedentis: Atque ita quadruplicationis‚ sextupli-
+cationis, et reliquarum supplementa ex hac tabella invenire
+
+poteris.
+
+Ex sinistimarum figurarum radice quam maxima praecedente, et
+singulorum supplementorum figuris succedentibus in unum collectis,
+
+emerget radix plene extracta.
+
+Supplementa autem omnium radicum hactenus descripta habes;
+
+superest ergo jam de earundem extractione disserere.
+
+CAPUT VIII.
+
+DE RADICUM EXTRACTIONE.
+
+Omms radicati radix aut est unius figurae, aut plurium.
+Radices omnes unicae figurae, infra tredecupartientem, exhibet tabella
+
+subsequens.
+
+Ut si radicem quintupartientem 16809 quaeras: In linea
+quintuplicatorum quaerendus est oblatus numerus, aut ei saltem
+proxime minor, 16807; et loco eis' directe supremo reperies
+figuram quaesitam, nimirum, radicem quintupartientem oblati,
+vel oblato proximi, quae est 7, et supersunt Q, extractione
+irresolubiles}
+

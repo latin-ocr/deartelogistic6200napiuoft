@@ -1,0 +1,34 @@
+⁴6 DE ARTE LOGISTICA.
+
+Ut si radix oblata 85 radicaliter duplicanda, secentur in parteS,
+priorem 30, posteriorem 53 duc 30 in 5, fient 150, quorum
+duplum est 8003 quibus adde duplicatum 30 et duplicatum 5, ’
+quae sunt 900, et 25, fientque 1225, duplicatum totius numeri 35.
+Nec secus eveniet ex ductu 35 in 35. Item si prorogetur radix,
+sit 3523 sint partes, prior 350, posterior 23 duc invicem, fient
+700, quorum duplum est 1400; quibus adde duplicatum 2, quod
+est 4, et duplicatum 350 superius inventum, quod est 122500;
+etex his tribus summis, 122500, 1400, et 4, additis, fiunt 123904,
+duplicatum quaesitum radicis 352. Experire multiplicando 352
+in 352, et idem invenies. Eodem modo operandum foret in quar-
+tam usque figuram, foretque 3521. Ex anterioris partis 3520
+duplicato jam habito 12390400, et posteriore parte 1, habebitur
+12397441, duplicatum totius numeri, seu radicis, 3521.
+
+Est etiam ct alia radicalis triplicationis praxis ; nimirum, radicem in
+duas partes secando, et triplum partis cujusque in alterius duplicatum
+ducendo, et singulas partes triplicando3 ex his enim quatuor summis
+additis, producitur radicis oblatae triplicatum.
+
+Ut sit radix oblata 35 radicaliter triplicanda‚ secentur ut supra
+in partes 30 et 5 3 duc triplum '5, quod est 15, in duplicatum 30,
+quod est 900 ; et triplum 30, quod est 90, in duplicatum 5, quod
+est 25 ; et fiunt illa 13500, haec vero 2250; deinde radicaliter
+triplicentur 30, et fiunt 27000 ; radicaliter etiam triplicentur 5,
+et fient 125 ; ex his ergo quatuor summis, 13500, 2250, 27000,
+et 125, additis, fiunt 42875, oblatae radicis triplicatum quaesitum.
+Experire per multiplicationem continuatam 35, 35, et 35, invi-
+cem, etin idem incides. Similiter si hic prorogetur radix, sitque
+351 ; partiantur in anteriorem partem 350, et posteriorem 1, ex
+quibus, modo praefato, habebis has quatuor summas, 42875000,
+
